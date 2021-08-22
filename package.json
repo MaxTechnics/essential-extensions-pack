@@ -1,0 +1,13 @@
+{
+  "name": "agr-productivity-pack",
+  "displayName": "agr-productivity-pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": []
+}
